@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "o9Tsh0YtWAiNUitlTXZJZXr1U2Q=",
+			"path": "github.com/kelseyhightower/envconfig",
+			"revision": "91921eb4cf999321cdbeebdba5a03555800d493b",
+			"revisionTime": "2016-04-29T16:42:05Z"
+		},
+		{
+			"checksumSHA1": "1T+O5By9lglAD3y77fUC8pXp5Tg=",
+			"path": "github.com/ovh/go-ovh/ovh",
+			"revision": "d2b2eae2511fa5fcd0bdef9f1790ea3979fa35d4",
+			"revisionTime": "2016-06-04T15:31:04Z"
+		},
+		{
+			"checksumSHA1": "xtDvKWCfeXIqA3nW0lg+8ZZvE5g=",
+			"path": "gopkg.in/ini.v1",
+			"revision": "cf53f9204df4fbdd7ec4164b57fa6184ba168292",
+			"revisionTime": "2016-07-08T17:31:50Z"
+		}
+	],
+	"rootPath": "github.com/thbkrkr/go-ovh-api"
+}
