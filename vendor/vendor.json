@@ -9,10 +9,10 @@
 			"revisionTime": "2016-04-29T16:42:05Z"
 		},
 		{
-			"checksumSHA1": "1T+O5By9lglAD3y77fUC8pXp5Tg=",
+			"checksumSHA1": "9vQ5+o0oO/0deG+uokvvdpeSv0Y=",
 			"path": "github.com/ovh/go-ovh/ovh",
-			"revision": "d2b2eae2511fa5fcd0bdef9f1790ea3979fa35d4",
-			"revisionTime": "2016-06-04T15:31:04Z"
+			"revision": "d2207178e10e4527e8f222fd8707982df8c3af17",
+			"revisionTime": "2017-01-02T12:05:21Z"
 		},
 		{
 			"checksumSHA1": "xtDvKWCfeXIqA3nW0lg+8ZZvE5g=",
@@ -21,5 +21,5 @@
 			"revisionTime": "2016-07-08T17:31:50Z"
 		}
 	],
-	"rootPath": "github.com/thbkrkr/go-ovh-api"
+	"rootPath": "github.com/thbkrkr/ovhapi-go-cli"
 }
